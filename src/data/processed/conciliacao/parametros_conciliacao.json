@@ -1,0 +1,28 @@
+{
+  "gerado_em": "2026-10-13T00:40:31",
+  "JANELA_MAX_MIN": 240,
+  "TAU_GAP_MIN": 30,
+  "TAU_INICIO_MIN": 60,
+  "W_T": 0.5,
+  "W_E": 0.25,
+  "W_C": 0.25,
+  "ANCORA_CONTENCAO": 0.5,
+  "ANCORA_DINI_MIN": 60,
+  "ANCORA_MAX_H": 24,
+  "ALFA": 1.0,
+  "SUPORTE_MIN_TOKEN": 3,
+  "NEUTRO": 0.5,
+  "LIMIAR_ALTA": 0.75,
+  "LIMIAR_MEDIA": 0.6,
+  "LIMIAR_BAIXA": 0.45,
+  "MARGEM_AMBIGUO": 0.05,
+  "DURACAO_MAX_H": 24,
+  "DIF_DURACAO_MIN": 15,
+  "DIF_DURACAO_REL": 0.3,
+  "SIMILARIDADE_DUP": 0.6,
+  "eventos": {
+    "MES + SAP": 1074,
+    "MES sem SAP": 427,
+    "SAP sem MES": 348
+  }
+}

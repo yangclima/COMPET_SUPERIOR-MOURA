@@ -1,0 +1,19 @@
+{
+  "gerado_em": "2026-10-13T00:36:35",
+  "arquivo_origem": "C:\\Users\\girle\\Desktop\\Yan\\1. UFPE\\2026.2\\COMPET - - MOURA\\moura_manutencao\\src\\data\\raw\\base.xlsx",
+  "formato": "parquet",
+  "GAP_MAX_MIN": 2,
+  "MICRO_PARADA_MIN": 2,
+  "DURACAO_MAX_H": 24,
+  "MAPA_MAQUINA_SAP": {
+    "MAQA": "A",
+    "MAQB": "B",
+    "MAQC": "C",
+    "MAQD": "D"
+  },
+  "linhas": {
+    "mes_registros": 1640,
+    "mes_paradas": 1501,
+    "sap_ordens": 1552
+  }
+}
